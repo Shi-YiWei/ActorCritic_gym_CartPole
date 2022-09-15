@@ -1,7 +1,7 @@
 # ActorCritic_gym_CartPole
 ActorCritic(double network) run gym CartPole
 
-## network architecture
+## Network architecture
 Actor network   
 Critic network
 
